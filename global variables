@@ -1,0 +1,87 @@
+{
+	"id": "9a909123-4524-4186-86e7-953881d8b0ac",
+	"values": [
+		{
+			"key": "baseUrlHttpBin",
+			"value": "https://httpbin.org",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "baseURLJasonPlaceholder",
+			"value": "https://jsonplaceholder.typicode.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "putTitle",
+			"value": "Manual Tester",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "putBody",
+			"value": "new content - I am learning Postman",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "putId",
+			"value": "2451",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "postTitle",
+			"value": "New Title 777",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "postBody",
+			"value": "New content with global variable",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "Leanne Graham",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "baseUrlFireFly",
+			"value": "https://fintech-testlab.coderslab.pl",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "currencySymbol",
+			"value": "🤑",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "currencyName",
+			"value": "New Approach Coins",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "currencyCode",
+			"value": "NAC1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "categoriesId",
+			"value": "910",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-03-11T17:20:01.597Z",
+	"_postman_exported_using": "Postman/10.23.12"
+}
